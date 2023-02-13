@@ -8,7 +8,7 @@ This repository is based on the original one by Wilson Ler (thanks @lws803) ,but
 1. 1x Arduino Nano Every or Arduino Nano
 2. 3x nRF24L01+ modules
 3. 1x Mini-Breadboard
-4. 1x several Jumper wires
+4. several Jumper wires
 5. 1x 3D printed case
 
 ## GPIO adjustment
