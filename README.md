@@ -11,19 +11,19 @@ This repository is based on the original one by Wilson Ler (thanks @lws803) ,but
 ## GPIO adjustment
 Arduino Nano Every:
 
-| Function:  | Pin Name |
-| ---------- | -------- |
-| Power  	   | 3V3  	  |
-| Ground  	 | GND      |
-| ADC0/CE    | A0       |
-| ADC1/CSN   | A2       |
-| ADC2/CE    | A3       |
-| ADC3/CSN   | A4       |
-| ADC5/SCK1  | D13      |
-| ADC6/MISO1 | D12      |
-| ADC7/MOSI1 | D11      |
-| ADC8/CE    | A5       |
-| ADC9/CSN   | A6       |
+| Function:  | Pin Name:| Wire color:|
+| ---------- | -------- | ---------- |
+| Power  	   | 3V3  	  |    red     |
+| Ground  	 | GND      |    black   |   
+| ADC0/CE    | A0       |   green    |
+| ADC1/CSN   | A2       |   white    |
+| ADC2/CE    | A3       |   green    |
+| ADC3/CSN   | A4       |   white    |
+| ADC5/SCK1  | D13      |   yellow   |
+| ADC6/MISO1 | D12      |   brown    |
+| ADC7/MOSI1 | D11      |   orange   |
+| ADC8/CE    | A5       |   green    |
+| ADC9/CSN   | A6       |   white    |
 
 
 ## Schematics and Images
