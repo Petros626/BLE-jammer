@@ -10,23 +10,20 @@ This repository is based on the original one by Wilson Ler (thanks @lws803) ,but
 
 ## GPIO adjustment
 
-Function:		STM32 BluePill:			  Arduino Nano Every:
+| Function:     | Pin Name |
+| ------------- | -------- |
+| Power  	| 3V3  	   |
+| Ground  	| GND      |
+| ADC0/CE  	| A0       |
+| ADC1/CSN 	| A2       |
+| ADC2/CE  	| A3       |
+| ADC3/CSN  	| A4       |
+| ADC5/SCK1  	| D13      |
+| ADC6/MISO1 	| D12      |
+| ADC7/MOSI1 	| D11      |
+| ADC8/CE 	| A5       |
+| ADC9/CSN 	| A6       |
 
-				     Pin Name				      Pin Name
-
-Power			   3.3		     ->		    3.3
-Ground			 GND		     ->		    GND
-ADC0/CE		   (PA0)A0	   ->		   (PD3)A0
-ADC1/CSN	   (PA1)A1	   ->		   (PD2)A1
-ADC2/CE		   (PA2)A2	   ->		   (PD1)A2
-ADC3/CSN	   (PA3)A3	   ->		   (PD0)A3
-
-ADC5/SCK1	   (PA5)A5	   ->	 	   (PE2)D13		
-ADC6/MISO1	 (PA6)A6	   ->		   (PE1)D12	
-ADC7/MOSI1	 (PA7)A7     ->		   (PE0)D11
-	
-ADC8/CE		   (PB0)B0	   ->		   (PA3)A5	
-ADC9/CSN	   (PB1)B1	   ->		   (PD4)A6
 
 ## Schematics ad Images
 
