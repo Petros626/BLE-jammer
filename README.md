@@ -1,4 +1,4 @@
-# Bluetooth Low Energy jammer
+# Bluetooth Low Energy jammer 3D-printed case in use with Arduino Nano Every
 BLE (Bluetooth low energy) jammer using nRF24L01+ modules and a simple STM32 microtroller like the Maple Mini/ Bluepill
 
 ## Brief overview
