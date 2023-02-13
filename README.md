@@ -3,10 +3,13 @@ BLE (Bluetooth low energy) jammer using nRF24L01+ modules and an Arduino Nano Ev
 
 ## Brief overview
 This repository is based on the original one by Wilson Ler (thanks @lws803) ,but provides a handy 3D case to house all the electronics and migrate the code (detailed commented) to the Arduino Nano Every.
+
 ## Project components
 1. 1x Arduino Nano Every or Arduino Nano
 2. 3x nRF24L01+ modules
 3. 1x Mini-Breadboard
+4. 1x several Jumper wires
+5. 1x 3D printed case
 
 ## GPIO adjustment
 Arduino Nano Every:
