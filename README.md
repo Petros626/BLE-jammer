@@ -9,6 +9,7 @@ This repository is based on the original one by Wilson Ler (thanks @lws803) ,but
 3. 1x Mini-Breadboard
 
 ## GPIO adjustment
+Arduino Nano Every:
 
 | Function:     | Pin Name |
 | ------------- | -------- |
