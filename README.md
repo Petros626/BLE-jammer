@@ -25,5 +25,5 @@ This repository is based on the original one by Wilson Ler (thanks @lws803) ,but
 | ADC9/CSN 	| A6       |
 
 
-## Schematics ad Images
+## Schematics and Images
 
