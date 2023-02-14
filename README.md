@@ -81,6 +81,7 @@ RF_CH		= 0x50
 RF_SETUP	= 0x0d
 CONFIG		= 0x0e
 ```
+Auto acknowledgement should be set to 0 like in the debug information above and the only difference in configuration among the 3 modules should be the ´RF_CH´.
 
 # Outlook
 As the author has already described, this jammer is used to block device detection; with devices that are already known, the jammer will probably have no effect. This requires a jammer that covers the entire frequency range of Bluetooth Low Energy.
