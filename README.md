@@ -32,6 +32,8 @@ Arduino Nano Every:
 
 ## Schematics and Images
 
+add schematic here
+
 ![IMG_20230214_173954](https://user-images.githubusercontent.com/62354721/218823254-9ecfaff7-ef2d-4b99-b409-9ad93d76556c.jpg)
 
 ![IMG_20230214_172801](https://user-images.githubusercontent.com/62354721/218823920-b9712c88-7b1a-45e0-94bc-44f7ae551bc5.jpg)
