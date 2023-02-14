@@ -40,7 +40,7 @@ nRF24L01+ module:
 ```
 ```
 EN_AA	  = 0x3f
-EN_RXADDR =0x02
+EN_RXADDR = 0x02
 RF_CH	  = 0x4c
 RF_SETUP  = 0x03
 CONFIG	  = 0x0f
