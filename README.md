@@ -45,6 +45,7 @@ RF_CH	  = 0x4c
 RF_SETUP  = 0x03
 CONFIG	  = 0x0f
 ``` 
+If you get the same addresses for the registers the module is working.
 
 ## Run the jammer
 With the 
