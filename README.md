@@ -44,7 +44,7 @@ With the
 ```ruby
 printDetails(); 
 ``` 
-function ((https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122e16cea6)) it's easy to print the expected output for all of your three modules. It should similiar to this, after your powered up the Arduino and every wire connection is in the right place:
+function (https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122e16cea6) it's easy to print the expected output for all of your three modules. It should similiar to this, after your powered up the Arduino and every wire connection is in the right place:
 ```
 nRF24L01 module :
 
