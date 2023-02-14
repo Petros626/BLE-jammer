@@ -79,7 +79,8 @@ A product that I bought and tested successfully:
 
 https://de.aliexpress.com/item/1005003664010447.html?spm=a2g0o.order_list.order_list_main.11.59c15c5f3fmlqw&gatewayAdapt=glo2deu
 
-I reccommend to buy this antenna too, because the default one has a poor range:
+I reccommend to buy this antenna (male connector is needed) too, because the default one has a poor range:
+
 https://de.aliexpress.com/item/32978207284.html?spm=a2g0o.order_list.order_list_main.5.59c15c5f3fmlqw&gatewayAdapt=glo2deu
 
 
