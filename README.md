@@ -35,7 +35,6 @@ put here 3d printed box
 
 ## nRF24L01+ module testing
 The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/blob/master/nRF24L01%2B_InspectionCode.ino) is used to check the functionality of your nRF24L01+ modules. Generally some people had problems to run them without errors, so a good approach would be to check first your modules one by one with the expected output:
-```
 
 nRF24L01+ module:
 
@@ -56,7 +55,7 @@ Model		= nRF24L01+
 CRC Length	= 16 bits
 PA Power	= PA_LOW
 ARC		= 0
-```
+
 
 
 ## Run the jammer
