@@ -141,7 +141,7 @@ BLE Channel Number | Frequency Value
 information to stdout
 *	Return:	nothing
 *********************************************/
-  printf("\nnRF24L01 module :\n\n");
+  printf("\nnRF24L01 module 1:\n\n");
   radio.printDetails();
   printf("\nnRF24L01 module 2:\n\n");
   radio2.printDetails();
