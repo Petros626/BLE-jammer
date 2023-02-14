@@ -50,7 +50,8 @@ EN_RXADDR	= 0x03
 RF_CH		= 0x02
 RF_SETUP	= 0x0d
 CONFIG		= 0x0e
-
+```
+```
 nRF24L01 module 2:
 
 EN_AA		= 0x0
@@ -58,7 +59,8 @@ EN_RXADDR	= 0x03
 RF_CH		= 0x1a
 RF_SETUP	= 0x0d
 CONFIG		= 0x0e
-
+```
+```
 nRF24L01 module 3:
 
 EN_AA		= 0x00
