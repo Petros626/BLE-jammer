@@ -32,4 +32,4 @@ Arduino Nano Every:
 ## Schematics and Images
 
 ## nRF24L01+ module testing
-the script 
+The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/blob/master/nRF24L01%2B_InspectionCode.ino)
