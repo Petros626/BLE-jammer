@@ -153,7 +153,7 @@ information to stdout
 void loop() 
 {
   // random string for spaming the three channels
-  // uint8_t = byte (original code using byte)
+  // uint8_t = byte (original code using byte, but char also works)
   char spam[] = {"x"};
 
   /****************************************
