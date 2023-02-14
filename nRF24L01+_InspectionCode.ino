@@ -81,6 +81,7 @@ opened for reading.
 information to stdout
 *	Return:	nothing
 *********************************************/
+  printf("\nnRF24L01+ module:\n\n");
   radio.printDetails();
   
   
