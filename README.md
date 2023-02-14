@@ -39,6 +39,31 @@ The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/bl
 With the 
 
 ```ruby
-radio.printDetails(); 
+printDetails(); 
 ``` 
-function ((https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122e16cea6)) its easy to print the expected outpur for all of your three modules:
+function ((https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122e16cea6)) it's easy to print the expected output for all of your three modules. It should similiar to this:
+```
+nRF24L01 module :
+
+EN_AA		= 0x00
+EN_RXADDR	= 0x03
+RF_CH		= 0x02
+RF_SETUP	= 0x0d
+CONFIG		= 0x0e
+
+nRF24L01 module 2:
+
+EN_AA		= 0x0
+EN_RXADDR	= 0x03
+RF_CH		= 0x1a
+RF_SETUP	= 0x0d
+CONFIG		= 0x0e
+
+nRF24L01 module 3:
+
+EN_AA		= 0x00
+EN_RXADDR	= 0x03
+RF_CH		= 0x50
+RF_SETUP	= 0x0d
+CONFIG		= 0x0e
+```
