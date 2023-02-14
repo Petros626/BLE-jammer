@@ -74,6 +74,8 @@ CONFIG		= 0x0e
 As the author has already described, this jammer is used to block device detection; with devices that are already known, the jammer will probably have no effect. This requires a jammer that covers the entire frequency range of Bluetooth Low Energy.
 
 A product that I bought and tested successfully:
+![image](https://user-images.githubusercontent.com/62354721/218671915-bdee305a-c6d1-4482-8390-806c67b2abae.png)
+
 https://de.aliexpress.com/item/1005003664010447.html?spm=a2g0o.order_list.order_list_main.11.59c15c5f3fmlqw&gatewayAdapt=glo2deu
 
 I reccommend to buy this antenna too, because the default one has a poor range:
