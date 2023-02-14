@@ -32,4 +32,4 @@ Arduino Nano Every:
 ## Schematics and Images
 
 ## nRF24L01+ module testing
-
+the script 
