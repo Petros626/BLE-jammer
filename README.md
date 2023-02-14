@@ -39,11 +39,11 @@ The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/bl
 nRF24L01+ module:
 ```
 ```
-**EN_AA**	= **0x3f**
-**EN_RXADDR**	= **0x02**
-**RF_CH**	= **0x4c**
-**RF_SETUP** = **0x03**
-**CONFIG**	= **0x0f**
+EN_AA	= 0x3f
+EN_RXADDR	= 0x02
+RF_CH	= 0x4c
+RF_SETUP = 0x03
+CONFIG	= 0x0f
 ``` 
 
 ## Run the jammer
