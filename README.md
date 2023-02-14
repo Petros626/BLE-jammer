@@ -30,8 +30,12 @@ Arduino Nano Every:
 | ADC9/CSN   | A6       |   white    |
 
 
-## Schematics and Images
-put here 3d printed box
+## Schematics and Images!
+[Uploading IMG_20230214_172801.jpg…]()
+
+![IMG_20230214_173954](https://user-images.githubusercontent.com/62354721/218823254-9ecfaff7-ef2d-4b99-b409-9ad93d76556c.jpg)
+
+![IMG_20230214_172815](https://user-images.githubusercontent.com/62354721/218823526-f9b31c35-2350-4fb6-b595-4335aae930fb.jpg)
 
 ## nRF24L01+ module testing
 The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/blob/master/nRF24L01%2B_InspectionCode.ino) is used to check the functionality of your nRF24L01+ modules. Generally some people had problems to run them without errors, so a good approach would be to check first your modules **one by one** with the expected output:
