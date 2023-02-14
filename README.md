@@ -38,7 +38,8 @@ The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/bl
 ## Run the jammer
 With the 
 
-```cpp 
+```cpp
+  ruby
 radio.printDetails()
 ``` 
 function its easy to print the expected outpur for all of your three modules:
