@@ -56,11 +56,11 @@ function (https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122
 ```
 nRF24L01 module :
 
-EN_AA	  = 0x00
-EN_RXADDR = 0x03
-RF_CH	  = 0x02
-RF_SETUP = 0x0d
-CONFIG   = 0x0e
+EN_AA		= 0x00
+EN_RXADDR	= 0x03
+RF_CH		= 0x02
+RF_SETUP	= 0x0d
+CONFIG		= 0x0e
 ```
 ```
 nRF24L01 module 2:
