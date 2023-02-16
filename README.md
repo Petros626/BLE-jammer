@@ -29,12 +29,10 @@ Arduino Nano Every:
 | ADC8/CE    | A5       |   green    |
 | ADC9/CSN   | A6       |   white    |
 
-
 ## Schematics and Images
 
 Schematic:
 ![Arduino Nano Every GPIO](https://user-images.githubusercontent.com/62354721/219468845-ba6acebf-fbe0-490b-a2b9-91d92d1274d9.png)
-
 Note: The Schematic differs a little bit from the wires in the picture, but finally it depends on you, which colours you prefer.
 
 3D printed case:
@@ -43,6 +41,7 @@ Note: The Schematic differs a little bit from the wires in the picture, but fina
 ![IMG_20230214_172801](https://user-images.githubusercontent.com/62354721/218823920-b9712c88-7b1a-45e0-94bc-44f7ae551bc5.jpg)
 
 ![IMG_20230214_172815](https://user-images.githubusercontent.com/62354721/218823526-f9b31c35-2350-4fb6-b595-4335aae930fb.jpg)
+Note: The cylinders, which the Arduino shield is mounted is recuded by ~ 3mm, but could be necessarry to recude a litlte bit more. I used a grinder to grind down the protruding filament until the micro-USB socket was level with the recess. Unfortunately, since I don't have further access to a 3D printer, I couldn't try out several designs with reduced cylinder height. If anyone identifies an optimal height for the design, please feel free to share it.
 
 ## nRF24L01+ module testing
 The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/blob/master/nRF24L01%2B_InspectionCode.ino) is used to check the functionality of your nRF24L01+ modules. Generally some people had problems to run them without errors, so a good approach would be to check first your modules **one by one** with the expected output:
