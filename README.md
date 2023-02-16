@@ -32,7 +32,11 @@ Arduino Nano Every:
 
 ## Schematics and Images
 
-add schematic here
+Schematic:
+
+![Arduino Nano Every GPIO](https://user-images.githubusercontent.com/62354721/219468845-ba6acebf-fbe0-490b-a2b9-91d92d1274d9.png)
+
+3D printed case:
 
 ![IMG_20230214_173954](https://user-images.githubusercontent.com/62354721/218823254-9ecfaff7-ef2d-4b99-b409-9ad93d76556c.jpg)
 
