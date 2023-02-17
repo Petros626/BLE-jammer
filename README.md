@@ -29,7 +29,7 @@ Arduino Nano Every:
 | ADC8/CE    | A5       |   green    |
 | ADC9/CSN   | A6       |   white    |
 
-## Schematics and Images
+## Schematic
 
 Schematic:
 
@@ -45,6 +45,7 @@ Note: The Schematic differs a little bit from the wires in the picture, but fina
 <br />
 <br />
 
+## Images
 3D printed case:
 ![IMG_20230214_173954](https://user-images.githubusercontent.com/62354721/218823254-9ecfaff7-ef2d-4b99-b409-9ad93d76556c.jpg)
 
