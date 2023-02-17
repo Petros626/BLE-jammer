@@ -35,6 +35,8 @@ Schematic:
 ![Arduino Nano Every GPIO](https://user-images.githubusercontent.com/62354721/219468845-ba6acebf-fbe0-490b-a2b9-91d92d1274d9.png)
 Note: The Schematic differs a little bit from the wires in the picture, but finally it depends on you, which colours you prefer. 
 <br />
+<br />
+<br />
 
 3D printed case:
 ![IMG_20230214_173954](https://user-images.githubusercontent.com/62354721/218823254-9ecfaff7-ef2d-4b99-b409-9ad93d76556c.jpg)
@@ -65,6 +67,12 @@ With the
 ```ruby
 printDetails(); 
 ``` 
+```c
+void print_hello_world() {
+	printf("Hello World");
+}
+```
+
 function (https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122e16cea6) it's easy to print the expected output for all of your three modules. It should similiar to this, after your powered up the Arduino and every wire connection is in the right place:
 ```
 nRF24L01 module :
