@@ -51,8 +51,7 @@ Note: The cylinders, which the Arduino shield is mounted is recuded by exactly 3
 The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/blob/master/nRF24L01%2B_InspectionCode.ino) is used to check the functionality of your nRF24L01+ modules. Generally some people had problems to run them without errors, so a good approach would be to check first your modules **one by one** with the expected output:
 ```
 nRF24L01+ module:
-```
-```
+
 EN_AA	  = 0x3f
 EN_RXADDR = 0x02
 RF_CH	  = 0x4c
