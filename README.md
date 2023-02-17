@@ -32,12 +32,13 @@ Arduino Nano Every:
 ## Schematics and Images
 
 Schematic:
+
 ![BLE-Jammer schematic](https://user-images.githubusercontent.com/62354721/219692107-763fb9bb-ee7e-4908-b113-e56d2d60ad85.png)
 
 
 Snippet of the nRF24L01+ schematic with decoupling capacitor:
-![nRF24L01+ schematic](https://user-images.githubusercontent.com/62354721/219704657-5c6a1a8f-0b8c-4816-90b2-6cc925f35ef8.png)
 
+![nRF24L01+ schematic](https://user-images.githubusercontent.com/62354721/219704657-5c6a1a8f-0b8c-4816-90b2-6cc925f35ef8.png)
 
 Note: The Schematic differs a little bit from the wires in the picture, but finally it depends on you, which colours you prefer. I soldered a 1,0 pF decoupling capacitor on the PCB, with a size of 0603 and not 0402 like in the datasheet.
 <br />
