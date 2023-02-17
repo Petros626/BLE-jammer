@@ -32,8 +32,8 @@ Arduino Nano Every:
 ## Schematics and Images
 
 Schematic:
-![Arduino Nano Every GPIO](https://user-images.githubusercontent.com/62354721/219468845-ba6acebf-fbe0-490b-a2b9-91d92d1274d9.png)
-Note: The Schematic differs a little bit from the wires in the picture, but finally it depends on you, which colours you prefer. 
+![BLE-Jammer schematic](https://user-images.githubusercontent.com/62354721/219692107-763fb9bb-ee7e-4908-b113-e56d2d60ad85.png)
+Note: The Schematic differs a little bit from the wires in the picture, but finally it depends on you, which colours you prefer. I soldered a 1,0 pF decoupling capacitor on the PCB, with a size of 0603 and not 0402 like in the datasheet.
 <br />
 <br />
 <br />
