@@ -64,14 +64,11 @@ If you get the same addresses for the registers the module is working.
 ## Run the jammer
 With the 
 
-```ruby
-printDetails(); 
+```c++
+printf("\nnRF24L01+ module 1:\n\n");
+radio.printDetails();
 ``` 
 ```c
-void print_hello_world() {
-	printf("Hello World");
-}
-```
 
 function (https://nrf24.github.io/RF24/classRF24.html#adc95213ed4c8569a90eb33122e16cea6) it's easy to print the expected output for all of your three modules. It should similiar to this, after your powered up the Arduino and every wire connection is in the right place:
 ```
