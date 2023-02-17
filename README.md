@@ -43,6 +43,7 @@ Note: The Schematic differs a little bit from the wires in the picture, but fina
 ![IMG_20230214_172815](https://user-images.githubusercontent.com/62354721/218823526-f9b31c35-2350-4fb6-b595-4335aae930fb.jpg)
 Note: The cylinders, which the Arduino shield is mounted is recuded by ~ 3mm, but could be necessarry to recude a litlte bit more. I used a grinder to grind down the protruding filament until the micro-USB socket was level with the recess. Unfortunately, since I don't have further access to a 3D printer, I couldn't try out several designs with reduced cylinder height. If anyone identifies an optimal height for the design, please feel free to share it.
 
+
 ## nRF24L01+ module testing
 The script [nRF24L01+_InspectionCode](https://github.com/Petros626/BLE-jammer/blob/master/nRF24L01%2B_InspectionCode.ino) is used to check the functionality of your nRF24L01+ modules. Generally some people had problems to run them without errors, so a good approach would be to check first your modules **one by one** with the expected output:
 ```
