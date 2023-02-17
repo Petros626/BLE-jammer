@@ -35,6 +35,8 @@ Schematic:
 ![Arduino Nano Every GPIO](https://user-images.githubusercontent.com/62354721/219468845-ba6acebf-fbe0-490b-a2b9-91d92d1274d9.png)
 Note: The Schematic differs a little bit from the wires in the picture, but finally it depends on you, which colours you prefer.
 
+
+
 3D printed case:
 ![IMG_20230214_173954](https://user-images.githubusercontent.com/62354721/218823254-9ecfaff7-ef2d-4b99-b409-9ad93d76556c.jpg)
 
