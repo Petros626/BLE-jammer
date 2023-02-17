@@ -44,7 +44,7 @@ Note: The Schematic differs a little bit from the wires in the picture, but fina
 ![IMG_20230214_172801](https://user-images.githubusercontent.com/62354721/218823920-b9712c88-7b1a-45e0-94bc-44f7ae551bc5.jpg)
 
 ![IMG_20230214_172815](https://user-images.githubusercontent.com/62354721/218823526-f9b31c35-2350-4fb6-b595-4335aae930fb.jpg)
-Note: The cylinders, which the Arduino shield is mounted is recuded by ~ 3mm, but could be necessarry to recude a litlte bit more. I used a grinder to grind down the protruding filament until the micro-USB socket was level with the recess. Unfortunately, since I don't have further access to a 3D printer, I couldn't try out several designs with reduced cylinder height. If anyone identifies an optimal height for the design, please feel free to share it.
+Note: The cylinders, which the Arduino shield is mounted is recuded by exactly 3mm (cylinder height = 5mm), but could be necessarry to recude a litlte bit more. I used a grinder to grind down the protruding filament until the micro-USB socket was level with the recess. Unfortunately, since I don't have further access to a 3D printer, I couldn't try out several designs with reduced cylinder height. If anyone identifies an optimal height for the design, please feel free to share it. I have also moved the holder for the Arduino Mini-Breadboard xx mm to the right, so that nothing wobbles in the housing any more.
 
 
 ## nRF24L01+ module testing
